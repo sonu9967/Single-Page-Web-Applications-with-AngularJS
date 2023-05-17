@@ -1,0 +1,18 @@
+h1 {
+    margin-bottom: 30px;
+}
+
+input[type="text"] {
+    width: 200px;
+    float: left;
+}
+
+.narrow-button {
+    float: left;
+    margin-left: 10px;
+}
+
+.search {
+    display: inline-block;
+    margin-bottom: 10px;
+}
